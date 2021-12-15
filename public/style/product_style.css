@@ -1,0 +1,53 @@
+h1.banner {
+    font-family: 'Tourney', cursive;
+    font-style: normal;
+    font-weight: 700;
+    height: 80px;
+    color: rgba(32, 32, 30, 0.836);
+    background-color: rgb(34, 34, 30);
+    line-height: 80px;
+    text-align: center;
+    background-image: url(https://img4.thuthuatphanmem.vn/uploads/2020/12/25/blue-banner_060831733.jpg);
+    background-size: 100%;
+}
+
+p.footer {
+    font-family: 'Tourney', cursive;
+    font-style: normal;
+    font-weight: 700;
+
+    height: 60px;
+    line-height: 50px;
+    color: rgb(34, 34, 30);
+    background-color: gray;
+    text-align: center;
+    margin-top: 5px;
+    background-image: url(https://img4.thuthuatphanmem.vn/uploads/2020/12/25/blue-banner_060831733.jpg);
+    background-size: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+div.product {
+    font-family: 'Bellota', cursive;
+    border: 1px solid gray;
+    text-align: center;
+    color: blue;
+}
+div.detailSP {
+    font-family: 'Bellota', cursive;
+}
+div.listSP{
+	font-family: 'Bellota', cursive;
+    font-style: normal;
+    font-weight: 700;
+}
+div.addSP{
+	font-family: 'Bellota', cursive;
+    font-style: normal;
+    font-weight: 700;
+}
+nav{
+	font-family: 'Bellota', cursive;
+    font-style: normal;
+    font-weight: 700;
+}
